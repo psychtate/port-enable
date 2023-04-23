@@ -1,1 +1,5 @@
 registoryeditor - hkey local machine - system - currentcontrolset - services - USBSTOR - start - make it 3
+
+
+
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\USBSTOR
