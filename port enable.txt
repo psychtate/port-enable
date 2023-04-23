@@ -1,0 +1,1 @@
+registoryeditor - hkey local machine - system - currentcontrolset - services - USBSTOR - start - make it 3
