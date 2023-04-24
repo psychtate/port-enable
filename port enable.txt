@@ -3,3 +3,6 @@ registoryeditor - hkey local machine - system - currentcontrolset - services - U
 
 
 Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\USBSTOR
+
+
+regedit
